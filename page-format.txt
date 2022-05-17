@@ -1,0 +1,7 @@
+Every recipe page will follow a similar structure:
+    a Link to go back home
+    h1 Title of the recipe
+    img Image of the recipe
+    ul unordered list of the ingredients
+    ol ordered list of the steps
+    a Link to go to next recipe
