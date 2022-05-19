@@ -1,17 +1,12 @@
-.linkf {
-    font-size: clamp(1rem, 4vw, 3rem);
-}
-
-.dynamic {
-    width: fit-content;
-    height: fit-content;
-}
 
 .heading {
-    font-size: large;
     font-family: Arial, Helvetica, sans-serif;
     background-color: gainsboro;
     color: dimgray;
+}
+
+.special {
+    background-color: aqua;
 }
 
 .smallheading {
@@ -24,3 +19,12 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: darkkhaki;
 }
+
+.prominent {
+    background-color: black;
+}
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+}
+
