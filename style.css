@@ -1,0 +1,26 @@
+.linkf {
+    font-size: clamp(1rem, 4vw, 3rem);
+}
+
+.dynamic {
+    width: fit-content;
+    height: fit-content;
+}
+
+.heading {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+    color: dimgray;
+}
+
+.smallheading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: grey;
+    color: beige;
+}
+
+.link {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkkhaki;
+}
